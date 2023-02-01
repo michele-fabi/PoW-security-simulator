@@ -1,7 +1,7 @@
 CODE FOR ''BLOCKCHAIN RESKILLING'' 
 % AUTHOR: Michele Fabi
 % Matlab version used: R2021b
-% PRELIMINARY VERSION!
+
 
 
 This archive contains the Matlab code to analyze a mining race between honest and 
