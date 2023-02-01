@@ -12,9 +12,9 @@ Apart from MAIN.m, this archive contains the following functions:
 
 FUNCTION								|PURPOSE
 
-Simulate_no_delay_VECTORIZED					Outputs the probability that the attack succeeds and the growth rate of the honest chain.	
+Simulate_no_delay_VECTORIZED					Outputs the probability that the attack succeeds as well as the growth rate of the honest chain.	
 Simulate_with_delay_VECTORIZED				Outputs the probability that the attack succeeds, growth rate of the honest chain, and several statistics on the effects of forking 
-Compute_Simulation_Size						Compute the simulation size as a fn of a precision threshold
+Compute_Simulation_Size						Computes the simulation size as a fn of a precision threshold
 rowwiseLast								Finds the locations of the final non-zero value in each row of a matrix**
 
 All codes are preliminary and in testing phase. 
