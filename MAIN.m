@@ -1,7 +1,6 @@
 %% CODE FOR ``Blockchain Reskilling''
 % Nakamoto Consensus
 % Author: Michele Fabi
-% PRELIMINARY VERSION!
 %% INITIALIZATION
 close all
 clear 
