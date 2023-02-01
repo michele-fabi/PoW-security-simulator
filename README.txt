@@ -21,4 +21,4 @@ All codes are preliminary and in testing phase.
 For feedback, please contact me at my institutional email (michele.fabi@ensae.fr). 
 
 
-**I thank the online Mathworks community, in particular user 'Matt J', for making this rowwiseLast publicly available.
+**I thank the online Mathworks community, in particular user 'Matt J', for making rowwiseLast publicly available.
